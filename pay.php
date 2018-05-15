@@ -181,7 +181,7 @@
 				
 				<div class="half-width">
 					<label for="userPassword" style="margin-bottom: 10px !important;">Date of Birth</label> <br> 
-					<input required type="date" id="userPassword" name="billing-drivers-license-dob">
+					<input required type="date" id="userPassword" style="width: 295px" name="billing-drivers-license-dob">
 				</div>
 				
 				<div class="half-width">
@@ -190,13 +190,13 @@
 				</div>
 
 				<div class="half-width">
-					<label for="userPasswordRepeat">Billing Address</label>
+					<label for="userPasswordRepeat">Credit Monitoring Service</label>
 					<input required type="text" id="billing-address-address1" name="billing-address-address1">
 				</div>
 				
 			</fieldset>
 			   	<fieldset>
-				<legend>Credit Monitoring service</legend>
+				<legend>Login Details</legend>
 				
 				<div class="half-width">
 					<label for="userName">Username</label>
@@ -245,6 +245,10 @@
 						</p>
 					</div>
 				</div> <!-- .cd-credit-card -->
+				<div>
+					<label for="userPasswordRepeat">Billing Address</label>
+					<input required type="text" id="billing-address-address1" name="billing-address-address1">
+				</div>
 			</fieldset>
 			
 			<fieldset>
