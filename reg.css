@@ -1,0 +1,36 @@
+.form-label-left{
+    width:150px;
+}
+.form-line{
+    padding-top:12px;
+    padding-bottom:12px;
+}
+.form-label-right{
+    width:150px;
+}
+.form-all{
+    width:690px;
+    color:#555 !important;
+    font-family:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Verdana, sans-serif;
+    font-size:14px;
+}
+.form-radio-item label, .form-checkbox-item label, .form-grading-label, .form-header{
+    color: false;
+}
+.btn-form {
+    float: none;
+    display: block;
+    margin: 0 auto;
+    margin-left: 650px;
+}
+.button {
+    display:block;
+    margin: 0 auto;
+    /*text-align: center;*/
+    width: 550px;
+    font-size: 16px;
+    text-decoration: none;
+    border: none;
+    border-radius: 12px;
+    background-color: royalblue;
+}
